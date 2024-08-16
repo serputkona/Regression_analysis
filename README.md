@@ -1,11 +1,41 @@
-# Regression_analysis
-This repository focuses on regression analysis and includes:
-1. Scatterplots: Created for two (or three) related data arrays to determine the functional relationship.
-2. Regression Model: Built and fitted based on the scatterplots.
-3. Regression Line Visualization: Overlaid the regression line on the scatterplot.
-4. Response vs. Prediction Plot: Constructed to show response versus predicted values.
-5. Response vs. Residuals Plot: Created to display response versus residuals.
-6. Residuals by Observation Number: Plotted residuals against observation numbers.
-7. Q-Q Plot for Residuals: Generated and analyzed the Q-Q plot for residuals.
-8. Model Quality Evaluation: Assessed the model’s quality through numerical and graphical results.
-9. Model Refinement: Improved the model based on identified deficiencies and re-evaluated its quality.
+# Regression Analysis
+
+This repository focuses on regression analysis and includes the following components:
+
+## Scatterplots
+
+- **Visualization**: Creates scatterplots for two (three) related data arrays to determine the functional relationship between them.
+
+## Regression Model
+
+- **Model Building**: Constructs and fits a regression model based on the scatterplots to analyze the relationship between variables.
+
+## Regression Line Visualization
+
+- **Overlay**: Visualizes the regression line overlaid on the scatterplot to show the fitted model.
+
+## Response vs. Prediction Plot
+
+- **Plot Construction**: Shows response values against predicted values to assess the model's performance.
+
+## Response vs. Residuals Plot
+
+- **Plot Creation**: Displays response values versus residuals to evaluate model assumptions and identify patterns.
+
+## Residuals by Observation Number
+
+- **Plotting**: Plots residuals against observation numbers to detect any patterns or anomalies in residuals.
+
+## Q-Q Plot for Residuals
+
+- **Generation and Analysis**: Generates and analyzes the Q-Q plot for residuals to check the normality of residuals.
+
+## Model Quality Evaluation
+
+- **Assessment**: Assesses the model’s quality through both numerical metrics and graphical results to ensure accuracy and reliability.
+
+## Model Refinement
+
+- **Improvement**: Refines the model based on identified deficiencies and re-evaluates its quality to enhance performance.
+
+
